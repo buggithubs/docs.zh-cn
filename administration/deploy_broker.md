@@ -68,7 +68,7 @@ MySQL [(none)]> SHOW PROC "/brokers"\G
 
 *************************** 3. row ***************************
           Name: hdfs_broker
-            IP: 172.26.198.1
+            IP: 172.26.xxx.x
           Port: 8000
          Alive: true
  LastStartTime: 2022-05-19 11:21:36
